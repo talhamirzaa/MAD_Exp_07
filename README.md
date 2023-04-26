@@ -1,6 +1,6 @@
 # Experiment No 7: Navigation Drawer
 
-To develop navigation drawer in the Flutter application
+To develop navigation drawer in the Flutter application.
 
 ## About Experiment
 
